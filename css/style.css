@@ -656,8 +656,7 @@ textarea:focus {
 /*About bg*/
 #about-bg {
 	position: relative;
-	/*background-image: url(../images/img9.jpg);*/
-	background-image: url([[image:img9]]);
+	background-image: url(../images/img9.jpg);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
